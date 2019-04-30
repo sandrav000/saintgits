@@ -1,0 +1,16 @@
+body
+  {
+  background-color:grey;
+ height:500px;
+ width:500px;
+}
+h1 {
+    padding: 20px;
+    color: blue;
+   
+  }
+p {
+    font-style: vedana;
+    font-size:20px;
+  }
+
